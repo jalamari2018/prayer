@@ -1,0 +1,13 @@
+برنامج مواعيد الصلوات 
+
+بامكانك تعديل المدينة والدولة في الرابط الموجود داخل ملف 
+script.js
+مثال: 
+city= Jeddah
+country = Saudi Arabia
+http://api.aladhan.com/v1/calendarByCity?city=Jeddah&country=Saudi%20Arabia&method=2&month=03&year=2019
+لاتنسى تغير اسم المدينة في الصفحة الرئيسية 
+
+البرنامج يستخدم
+
+https://aladhan.com/
